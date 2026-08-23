@@ -1,0 +1,23 @@
+.DS_Store
+node_modules/
+
+# Unused scaffold files from local site setup. The published project is a
+# dependency-free static app made from index.html, styles.css, and app.js.
+.openai/
+app/
+build/
+db/
+drizzle/
+examples/
+public/
+tests/
+worker/
+drizzle.config.ts
+eslint.config.mjs
+next-env.d.ts
+next.config.ts
+package-lock.json
+package.json
+postcss.config.mjs
+tsconfig.json
+vite.config.ts
