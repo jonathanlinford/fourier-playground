@@ -9,6 +9,7 @@ An interactive, browser-based introduction to Fourier transforms. Build signals 
 - Touch- and pointer-friendly freehand signal drawing
 - Local audio-file and microphone analysis
 - Adjustable Fourier reconstruction with a match score
+- Signal-aware coaching, staged hints, and plain-language signal changes
 - Web Audio playback
 - Responsive mobile and desktop layout
 - No backend, analytics, or uploaded audio
